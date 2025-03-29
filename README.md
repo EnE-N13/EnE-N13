@@ -1,3 +1,4 @@
+
 <p align="center">
 	<a href="https://github.com/EnE-N13/EnE-N13">
 		<img width="256px" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/missing_texture.png"/>
@@ -9,8 +10,14 @@
 </div>
 
 <p align="center">
-  Hobby Operating System
+	Hobby Operating System
 </p>
+
+## Info
+
+<img width="32px" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/ene.png">
+This project was created by an idiot, don't expect too much.
+<img width="32px" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/ene.png">
 
 ## Features
 
@@ -36,3 +43,5 @@
 - [Bluesky](https://bsky.app/profile/ene13.bsky.social)
 - [Twitch](https://www.twitch.tv/ene_13)
 - [Patreon](https://www.patreon.com/EnE_N13)
+
+
