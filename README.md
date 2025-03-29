@@ -15,9 +15,11 @@
 
 ## Info
 
-<img width="32px" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/ene.png">
+<div align="left">
+<img width="32px" style="float: left;" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/ene.png">
 This project was created by an idiot, don't expect too much.
-<img width="32px" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/ene.png">
+<img width="32px" style="float: left;" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/ene.png">
+</div>
 
 ## Features
 
