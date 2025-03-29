@@ -1,7 +1,14 @@
+<p align="center">
+  <a href="https://github.com/EnE-N13/EnE-N13">
+    <img width="256px" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/img/missing_texture.png"/>
+  </a>
+</p>
 
+<div align="center">
+  <h1>CHOS</h1>
+</div>
 
-# Readme.md
-
-
-Hi :3
+<p align="center">
+  Hobby Operating System
+</p>
 
