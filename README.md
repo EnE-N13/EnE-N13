@@ -13,6 +13,12 @@
 	Hobby Operating System
 </p>
 
+<div align="center">
+	<a href="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/screenshot_loading.png">
+		<img width="95%" src="https://raw.githubusercontent.com/EnE-N13/EnE-N13/main/img/screenshot_loading.png"/>
+	</a>
+</div>
+
 ## Info
 
 <div align="left">
